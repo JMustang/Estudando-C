@@ -25,6 +25,7 @@
 *.xcodeproj/
 *.vcxproj*
 
+.vscode
 # Arquivos temporários e de backup
 *.swp
 *.swo
